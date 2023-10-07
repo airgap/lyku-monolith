@@ -1,0 +1,49 @@
+/*!
+ * Canvas
+ * Copyright (c) 2010 LearnBoost <tj@learnboost.com>
+ * MIT Licensed
+ */
+
+/*!
+ * Canvas - CanvasPattern
+ * Copyright (c) 2010 LearnBoost <tj@learnboost.com>
+ * MIT Licensed
+ */
+
+/*!
+ * Canvas - Context2d
+ * Copyright (c) 2010 LearnBoost <tj@learnboost.com>
+ * MIT Licensed
+ */
+
+/*!
+ * Canvas - Image
+ * Copyright (c) 2010 LearnBoost <tj@learnboost.com>
+ * MIT Licensed
+ */
+
+/*!
+ * Canvas - JPEGStream
+ * Copyright (c) 2010 LearnBoost <tj@learnboost.com>
+ * MIT Licensed
+ */
+
+/*!
+ * Canvas - PDFStream
+ */
+
+/*!
+ * Canvas - PNGStream
+ * Copyright (c) 2010 LearnBoost <tj@learnboost.com>
+ * MIT Licensed
+ */
+
+/*! simple-concat. MIT License. Feross Aboukhadijeh <https://feross.org/opensource> */
+
+/**
+ * @license bcrypt.js (c) 2013 Daniel Wirtz <dcode@dcode.io>
+ * Released under the Apache License, Version 2.0
+ * see: https://github.com/dcodeIO/bcrypt.js for details
+ */
+
+/** @license URI.js v4.4.1 (c) 2011 Gary Court. License: http://github.com/garycourt/uri-js */
