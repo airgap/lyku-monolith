@@ -7,12 +7,5 @@
 		"delete": "pm2 delete monolith-$(basename `pwd`)"
 	},
 	"devDependencies": {
-		"constants-to-json": "*",
-		"schema-constants": "*",
-		"types": "*",
-		"defaults": "*",
-		"phrasebooks": "*",
-		"schema-constants/monolith": "*",
-		"monolith-ts-api": "*"
 	}
 }
