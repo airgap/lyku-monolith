@@ -1,9 +1,9 @@
 {
 	"name": "monolith",
 	"scripts": {
-		"start": "bun run main.js",
+		"start": "npm run main.js",
 		"start:doppled": "bash ./dopple bun run start",
-		"start:bg": "pm2 --name monolith-$(basename `pwd`) start bun -- run start:doppled",
+		"start:bg": "pm2 --name monolith-$(basename `pwd`) start npm -- run start:doppled",
 		"delete": "pm2 delete monolith-$(basename `pwd`)"
 	},
 	"devDependencies": {
